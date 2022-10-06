@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d047b3ff28334c19afece99d54cfb46, type: 3}
+  m_Name: MarsMarkerLibrary
+  m_EditorClassIdentifier: 
+  m_Markers:
+  - m_SpecifySize: 1
+    m_Size: {x: 0.28, y: 0.14}
+    m_Label: Glider Step1
+    m_Texture: {fileID: 2800000, guid: ef1eb0092745249419e28914beb7b5ff, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 4961941741861595822
+      m_GuidHigh: 16182738093863483303
+  - m_SpecifySize: 1
+    m_Size: {x: 0.28, y: 0.14}
+    m_Label: Glider Step2
+    m_Texture: {fileID: 2800000, guid: 12c7fd3d27ec51241b7b4ba50f0a6c74, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5461603237183442576
+      m_GuidHigh: 3249328905088534405
+  - m_SpecifySize: 1
+    m_Size: {x: 0.28, y: 0.14}
+    m_Label: Glider Step3
+    m_Texture: {fileID: 2800000, guid: 1a0617cad79686c40b1b0d7dd761d33e, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5330045684885817446
+      m_GuidHigh: 14315850332703743394
+  - m_SpecifySize: 1
+    m_Size: {x: 0.28, y: 0.14}
+    m_Label: Glider Step4
+    m_Texture: {fileID: 2800000, guid: 6958a29158cd5204aa6d3bbad08de603, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 4845026399238188203
+      m_GuidHigh: 4887648098671721140
+  - m_SpecifySize: 1
+    m_Size: {x: 0.148, y: 0.074}
+    m_Label: Glider Step5
+    m_Texture: {fileID: 2800000, guid: d3bb7553eeff4994fb7c7afdd4a5c8f6, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 4712056481523935355
+      m_GuidHigh: 15989077598542826670
+  - m_SpecifySize: 1
+    m_Size: {x: 0.28, y: 0.14}
+    m_Label: Dog1
+    m_Texture: {fileID: 2800000, guid: 7f4e0befc11d4b141bde0dc40386cce7, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5059758594580435065
+      m_GuidHigh: 7474546424954526366
